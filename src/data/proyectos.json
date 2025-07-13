@@ -1,0 +1,91 @@
+[
+  {
+    "nombre": "Proyecto 1",
+    "imagen": "proyecto-default.jpg",
+    "repo": "https://github.com/usuario/proyecto",
+    "tecnologias": ["React", "Bootstrap", "Vite"],
+    "descripcion": "Este es el proyecto n\u00famero 1, dise\u00f1ado para mostrar una tarjeta interactiva con modal."
+  },
+  {
+    "nombre": "E-commerce Dashboard",
+    "imagen": "img1.jpg",
+    "repo": "https://github.com/usuario/ecommerce-dashboard",
+    "tecnologias": ["React", "TypeScript", "Material-UI", "Redux"],
+    "descripcion": "Dashboard administrativo para gestión de productos, órdenes y usuarios en un sistema de e-commerce."
+  },
+  {
+    "nombre": "Task Manager App",
+    "imagen": "img2.jpg",
+    "repo": "https://github.com/usuario/task-manager",
+    "tecnologias": ["Vue.js", "Vuex", "Tailwind CSS", "Firebase"],
+    "descripcion": "Aplicación de gestión de tareas con funcionalidades de drag & drop, categorización y colaboración en tiempo real."
+  },
+  {
+    "nombre": "Weather Forecast Widget",
+    "imagen": "img3.jpg",
+    "repo": "https://github.com/usuario/weather-widget",
+    "tecnologias": ["JavaScript", "CSS3", "OpenWeather API", "Chart.js"],
+    "descripcion": "Widget responsive que muestra el pronóstico del tiempo con gráficos interactivos y geolocalización."
+  },
+  {
+    "nombre": "Blog Personal",
+    "imagen": "img4.jpg",
+    "repo": "https://github.com/usuario/personal-blog",
+    "tecnologias": ["Gatsby", "GraphQL", "Markdown", "Netlify CMS"],
+    "descripcion": "Blog personal con sistema de comentarios, categorías y optimización SEO usando generación estática."
+  },
+  {
+    "nombre": "Expense Tracker",
+    "imagen": "img5.jpg",
+    "repo": "https://github.com/usuario/expense-tracker",
+    "tecnologias": ["React Native", "AsyncStorage", "Victory Charts", "Expo"],
+    "descripcion": "Aplicación móvil para seguimiento de gastos personales con categorización automática y reportes visuales."
+  },
+  {
+    "nombre": "Portfolio Website",
+    "imagen": "img6.jpg",
+    "repo": "https://github.com/usuario/portfolio-site",
+    "tecnologias": ["Next.js", "SCSS", "Framer Motion", "Vercel"],
+    "descripcion": "Sitio web portfolio con animaciones suaves, modo oscuro y formulario de contacto integrado."
+  },
+  {
+    "nombre": "Chat Application",
+    "imagen": "img7.jpg",
+    "repo": "https://github.com/usuario/chat-app",
+    "tecnologias": ["Socket.io", "Node.js", "Express", "MongoDB"],
+    "descripcion": "Aplicación de chat en tiempo real con salas privadas, emojis personalizados y historial de mensajes."
+  },
+  {
+    "nombre": "Recipe Finder",
+    "imagen": "img8.jpg",
+    "repo": "https://github.com/usuario/recipe-finder",
+    "tecnologias": ["Angular", "RxJS", "Angular Material", "Spoonacular API"],
+    "descripcion": "Buscador de recetas con filtros avanzados, lista de compras generada automáticamente y valoraciones."
+  },
+  {
+    "nombre": "Cryptocurrency Tracker",
+    "imagen": "img9.jpg",
+    "repo": "https://github.com/usuario/crypto-tracker",
+    "tecnologias": [
+      "React",
+      "Context API",
+      "Styled Components",
+      "CoinGecko API"
+    ],
+    "descripcion": "Aplicación para seguimiento de precios de criptomonedas con alertas personalizadas y portfolio virtual."
+  },
+  {
+    "nombre": "Music Player",
+    "imagen": "img10.jpg",
+    "repo": "https://github.com/usuario/music-player",
+    "tecnologias": ["HTML5", "CSS3", "Vanilla JS", "Web Audio API"],
+    "descripcion": "Reproductor de música web con visualizador de audio, playlist personalizada y controles avanzados."
+  },
+  {
+    "nombre": "Learning Management System",
+    "imagen": "img11.jpg",
+    "repo": "https://github.com/usuario/lms-platform",
+    "tecnologias": ["Laravel", "Vue.js", "MySQL", "Redis"],
+    "descripcion": "Sistema de gestión de aprendizaje con cursos interactivos, evaluaciones automáticas y progreso del estudiante."
+  }
+]
